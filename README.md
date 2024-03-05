@@ -1,14 +1,14 @@
 # Master Data Science Repository
 
-Welcome to the Master Data Science Repository! Here you will find a carefully curated collection of the most important and useful repositories for your development in the field of data science. This repository is a goldmine of free resources that will help you grow both professionally and personally in the exciting world of data science.
+Welcome to the Master Data Science Repository! Here you will discover a meticulously curated collection of essential repositories designed to aid your development in the expansive realm of data science. This repository serves as a treasure trove of free resources, meticulously selected to facilitate both your professional and personal growth in the dynamic field of data science.
 
-Each link in this repository will take you to a treasure trove of knowledge, from detailed roadmaps to complete courses, from practical exercises to reference resources. Whether you are just starting your journey in data science or looking to expand your skills and knowledge, you will find everything you need here.
+Each link in this repository directs you to a wealth of knowledge, ranging from comprehensive roadmaps to complete courses, from hands-on exercises to indispensable reference materials. Whether you're embarking on your data science journey or seeking to enhance your existing skills and knowledge, you'll find everything you need right here.
 
-Our goal is to provide you with access to a wide range of free content that will help you master key concepts, improve your technical skills, and stay updated with the latest trends in data science. This repository is an invaluable tool that will accompany you every step of the way to success in the field of data science.
+Our mission is to provide you with access to a diverse array of free content that will empower you to master fundamental concepts, refine your technical abilities, and stay abreast of the latest trends in data science. This repository serves as an invaluable companion on your journey to success in the field of data science.
 
-Explore, learn, and enjoy the journey to mastering data science with the Master Data Science Repository!
+Explore, learn, and revel in the journey to mastering data science with the Master Data Science Repository!
 
-Don't forget to save this repository! ⭐️
+Don't forget to bookmark this repository for easy access! ⭐️
 
 
 # Top 20 GitHub Repositories for Data Science
@@ -34,3 +34,24 @@ Don't forget to save this repository! ⭐️
 | 18  | Free Data Science Books      | [Free Data Science Books](https://github.com/chaconnewu/free-data-science-books) |
 | 19  | Data Science QnAs            | [Data Science QnAs](https://github.com/jayinai/data-science-question-answer) |
 | 20  | Data Science interviews      | [Data Science interviews](https://github.com/alexeygrigorev/data-science-interviews) |
+
+#Free Courses for DS and DA
+
+| No. | Course Title                                       | Link                                                                                         |
+|-----|----------------------------------------------------|----------------------------------------------------------------------------------------------|
+| 1   | Get started with Microsoft data analytics         | [Link](https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft/)          |
+| 2   | Prepare data for analysis with Power BI           | [Link](https://learn.microsoft.com/en-us/training/paths/prepare-data-power-bi/)             |
+| 3   | Model data with Power BI                          | [Link](https://learn.microsoft.com/en-us/training/paths/model-data-power-bi/)                |
+| 4   | Build Power BI visuals and reports                | [Link](https://learn.microsoft.com/en-us/training/paths/build-power-bi-visuals-reports/)     |
+| 5   | Python                                             | [Link](https://cs50.harvard.edu/python/2022/)                                                 |
+| 6   | SQL                                                | [Link](https://online.stanford.edu/courses/soe-ydatabases0005-databases-relational-databases-and-sql) |
+| 7   | R                                                  | [Link](https://cognitiveclass.ai/courses/r-101)                                                |
+| 8   | Excel, PowerBI                                    | [Link](https://learn.microsoft.com/en-in/training/paths/modern-analytics/)                    |
+| 9   | PowerBI (Data Analytics)                          | [Link](https://learn.microsoft.com/en-in/collections/m14nt4rdwnwp04)                           |
+| 10  | Microsoft Certified: Power BI Data Analyst Associate – Certifications | [Link](https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/) |
+| 11  | Use Power Bi for Financial Data Analysis          | [Link](https://www.coursera.org/projects/use-power-bi-for-financial-data-analysis-project)    |
+| 12  | Data-Driven Decisions with Power BI               | [Link](https://www.coursera.org/learn/data-driven-decisions-with-power-bi)                    |
+| 13  | Data Modeling in Power BI                         | [Link](https://www.coursera.org/learn/data-modeling-in-power-bi)                               |
+| 14  | Microsoft Power BI Data Analyst Professional Certificate | [Link](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst) |
+| 15  | Power Bi Report Development Crash Course          | [Link](https://www.coursera.org/projects/powerbi-report-development-crash-course-wdnos)      |
+
