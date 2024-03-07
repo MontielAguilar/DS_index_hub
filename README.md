@@ -1,4 +1,4 @@
-## Featured Resources for Data Science and Data Analytics
+# Featured Resources for Data Science and Data Analytics
 
 - **Top 20 GitHub Repositories for Data Science**: This repository curates the top resources available on GitHub for those interested in the field of data science. From cheat sheets to full projects, these resources provide a wide range of materials to learn and practice data science skills.
 
