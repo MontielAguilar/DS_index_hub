@@ -35,7 +35,7 @@ Don't forget to bookmark this repository for easy access! ⭐️
 | 19  | Data Science QnAs            | [Data Science QnAs](https://github.com/jayinai/data-science-question-answer) |
 | 20  | Data Science interviews      | [Data Science interviews](https://github.com/alexeygrigorev/data-science-interviews) |
 
-#Free Courses for DS and DA
+# Free Courses for DS and DA
 
 | No. | Course Title                                       | Link                                                                                         |
 |-----|----------------------------------------------------|----------------------------------------------------------------------------------------------|
@@ -55,3 +55,36 @@ Don't forget to bookmark this repository for easy access! ⭐️
 | 14  | Microsoft Power BI Data Analyst Professional Certificate | [Link](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst) |
 | 15  | Power Bi Report Development Crash Course          | [Link](https://www.coursera.org/projects/powerbi-report-development-crash-course-wdnos)      |
 
+# Free Courses for IA
+
+| No. | Título                           | Enlace                                                                                            |
+|-----|----------------------------------|---------------------------------------------------------------------------------------------------|
+| 1   | Generative AI by Microsoft       | [Repositorio GitHub](https://github.com/microsoft/generative-ai-for-beginners)                    |
+| 2   | MIT Efficient DL Computing       | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) |
+| 3   | NLP by UT Austin                 | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7) |
+| 4   | Deep Learning by Sebastian       | [Página del Curso](https://lightning.ai/courses/deep-learning-fundamentals/)                       |
+| 5   | LLMs Bootcamp                    | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) |
+| 6   | Harvard Intro to Python          | [Video YouTube](https://www.youtube.com/watch?si=NWbO6Fk3fUJLMGNR&v=nLRL_NcnK-4&feature=youtu.be) |
+| 7   | Deep Learning for Coders         | [Página del Curso](https://course.fast.ai/Lessons/part2.html)                                       |
+| 8   | MIT Intro to Deep Learning       | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) |
+| 9   | Neural Networks by Karpathy      | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) |
+| 10  | Prompt Engineering Guide         | [Sitio Web](https://www.promptingguide.ai/)                                                        |
+| 11  | Computer Vision Practice         | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R) |
+| 12  | Advanced NLP                     | [Enlace](https://lnkd.in/e_EFSxJP)                                                                  |
+| 13  | ML Stanford University           | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy) |
+| 14  | ML Engineering Andrew Ng         | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) |
+| 15  | Multimodal ML Carnegie           | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA) |
+| 16  | Stanford Deep Meta               | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) |
+| 17  | Stanford NLU                     | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ) |
+| 18  | Stanford Transformers            | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) |
+| 19  | DL by Yann LeCun                 | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) |
+| 20  | NLP by Hugging Face              | [Curso](https://huggingface.co/learn/nlp-course/chapter1/1)                                         |
+| 21  | Deep Learning by d2l_ai          | [Página del Libro](https://d2l.ai/index.html)                                                      |
+| 22  | Deepmind × UCL RL                | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) |
+| 23  | Stanford NLP + DL                | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) |
+| 24  | Deepmind × UCL DL                | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) |
+| 25  | Advanced Linear Algebra          | [Curso de Linear Algebra](https://www.cs.utexas.edu/users/flame/laff/alaff/ALAFF.html)              |
+| 26  | Stanford AI Techniques           | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) |
+| 27  | Practical DL                     | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) |
+| 28  | UMich DL for CV                  | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) |
+| 29  | Harvard Stats Probability        | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) |
