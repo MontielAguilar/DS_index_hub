@@ -1,12 +1,13 @@
-# Master Data Science Repository
+## Featured Resources for Data Science and Data Analytics
 
-Welcome to the Master Data Science Repository! Here you will discover a meticulously curated collection of essential repositories designed to aid your development in the expansive realm of data science. This repository serves as a treasure trove of free resources, meticulously selected to facilitate both your professional and personal growth in the dynamic field of data science.
+- **Top 20 GitHub Repositories for Data Science**: This repository curates the top resources available on GitHub for those interested in the field of data science. From cheat sheets to full projects, these resources provide a wide range of materials to learn and practice data science skills.
 
-Each link in this repository directs you to a wealth of knowledge, ranging from comprehensive roadmaps to complete courses, from hands-on exercises to indispensable reference materials. Whether you're embarking on your data science journey or seeking to enhance your existing skills and knowledge, you'll find everything you need right here.
+- **Free Courses for Data Science and Data Analytics**: In addition to GitHub resources, a list of free courses is included for those interested in learning data science and data analytics. These courses, offered by Microsoft, Harvard, Stanford, and others, cover a variety of essential topics to master the field.
 
-Our mission is to provide you with access to a diverse array of free content that will empower you to master fundamental concepts, refine your technical abilities, and stay abreast of the latest trends in data science. This repository serves as an invaluable companion on your journey to success in the field of data science.
+- **Free Courses for Artificial Intelligence**: This repository not only focuses on data science and data analytics but also offers a wide selection of free courses in artificial intelligence. From introductory courses to more advanced materials, these resources are perfect for those looking to explore the exciting field of artificial intelligence.
 
-Explore, learn, and revel in the journey to mastering data science with the Master Data Science Repository!
+With this repository, we aim to provide a comprehensive and accessible guide for anyone to kickstart their journey in data science, data analytics, and artificial intelligence for free. We hope you find these resources helpful and enriching for your learning!
+
 
 Don't forget to bookmark this repository for easy access! ⭐️
 
@@ -57,34 +58,36 @@ Don't forget to bookmark this repository for easy access! ⭐️
 
 # Free Courses for IA
 
-| No. | Título                           | Enlace                                                                                            |
-|-----|----------------------------------|---------------------------------------------------------------------------------------------------|
-| 1   | Generative AI by Microsoft       | [Repositorio GitHub](https://github.com/microsoft/generative-ai-for-beginners)                    |
-| 2   | MIT Efficient DL Computing       | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) |
-| 3   | NLP by UT Austin                 | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7) |
-| 4   | Deep Learning by Sebastian       | [Página del Curso](https://lightning.ai/courses/deep-learning-fundamentals/)                       |
-| 5   | LLMs Bootcamp                    | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ) |
-| 6   | Harvard Intro to Python          | [Video YouTube](https://www.youtube.com/watch?si=NWbO6Fk3fUJLMGNR&v=nLRL_NcnK-4&feature=youtu.be) |
-| 7   | Deep Learning for Coders         | [Página del Curso](https://course.fast.ai/Lessons/part2.html)                                       |
-| 8   | MIT Intro to Deep Learning       | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) |
-| 9   | Neural Networks by Karpathy      | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) |
-| 10  | Prompt Engineering Guide         | [Sitio Web](https://www.promptingguide.ai/)                                                        |
-| 11  | Computer Vision Practice         | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R) |
-| 12  | Advanced NLP                     | [Enlace](https://lnkd.in/e_EFSxJP)                                                                  |
-| 13  | ML Stanford University           | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy) |
-| 14  | ML Engineering Andrew Ng         | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK) |
-| 15  | Multimodal ML Carnegie           | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA) |
-| 16  | Stanford Deep Meta               | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI) |
-| 17  | Stanford NLU                     | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ) |
-| 18  | Stanford Transformers            | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM) |
-| 19  | DL by Yann LeCun                 | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) |
-| 20  | NLP by Hugging Face              | [Curso](https://huggingface.co/learn/nlp-course/chapter1/1)                                         |
-| 21  | Deep Learning by d2l_ai          | [Página del Libro](https://d2l.ai/index.html)                                                      |
-| 22  | Deepmind × UCL RL                | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) |
-| 23  | Stanford NLP + DL                | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) |
-| 24  | Deepmind × UCL DL                | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF) |
-| 25  | Advanced Linear Algebra          | [Curso de Linear Algebra](https://www.cs.utexas.edu/users/flame/laff/alaff/ALAFF.html)              |
-| 26  | Stanford AI Techniques           | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) |
-| 27  | Practical DL                     | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU) |
-| 28  | UMich DL for CV                  | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) |
-| 29  | Harvard Stats Probability        | [Lista de Reproducción YouTube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo) |
+| No. | Título                           | Link                                                                                                |
+|-----|----------------------------------|-----------------------------------------------------------------------------------------------------|
+| 1   | Generative AI by Microsoft       | [link](https://github.com/microsoft/generative-ai-for-beginners)                                    |
+| 2   | MIT Efficient DL Computing       | [link](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)                   |
+| 3   | NLP by UT Austin                 | [link](https://www.youtube.com/playlist?list=PLofp2YXfp7TZZ5c7HEChs0_wfEfewLDs7)                    |
+| 4   | Deep Learning by Sebastian       | [link](https://lightning.ai/courses/deep-learning-fundamentals/)                                      |
+| 5   | LLMs Bootcamp                    | [link](https://www.youtube.com/playlist?list=PL1T8fO7ArWleyIqOy37OVXsP4hFXymdOZ)                     |
+| 6   | Harvard Intro to Python          | [link](https://www.youtube.com/watch?si=NWbO6Fk3fUJLMGNR&v=nLRL_NcnK-4&feature=youtu.be)            |
+| 7   | Deep Learning for Coders         | [link](https://course.fast.ai/Lessons/part2.html)                                                     |
+| 8   | MIT Intro to Deep Learning       | [link](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)                     |
+| 9   | Neural Networks by Karpathy      | [link](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)                     |
+| 10  | Prompt Engineering Guide         | [link](https://www.promptingguide.ai/)                                                               |
+| 11  | Computer Vision Practice         | [link](https://www.youtube.com/playlist?list=PLZCA39VpuaZajiCtgDDwU8ghchtqx347R)                      |
+| 12  | Advanced NLP                     | [link](https://lnkd.in/e_EFSxJP)                                                                     |
+| 13  | ML Stanford University           | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy)                     |
+| 14  | ML Engineering Andrew Ng         | [link](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK)                     |
+| 15  | Multimodal ML Carnegie           | [link](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNM7pbbevXKAbT_Xmub37fA)                     |
+| 16  | Stanford Deep Meta               | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)                     |
+| 17  | Stanford NLU                     | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)                     |
+| 18  | Stanford Transformers            | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)                     |
+| 19  | DL by Yann LeCun                 | [link](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)                     |
+| 20  | NLP by Hugging Face              | [link](https://huggingface.co/learn/nlp-course/chapter1/1)                                            |
+| 21  | Deep Learning by d2l_ai          | [link](https://d2l.ai/index.html)                                                                    |
+| 22  | Deepmind × UCL RL                | [link](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)                     |
+| 23  | Stanford NLP + DL                | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ)                     |
+| 24  | Deepmind × UCL DL                | [link](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)                     |
+| 25  | Advanced Linear Algebra          | [link](https://www.cs.utexas.edu/users/flame/laff/alaff/ALAFF.html)                                  |
+| 26  | Stanford AI Techniques           | [link](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)                     |
+| 27  | Practical DL                     | [link](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSvpQjSnJJ_PmDQB_VyT5iU)                     |
+| 28  | UMich DL for CV                  | [link](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)                     |
+| 29  | Harvard Stats Probability        | [link](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)                     |
+
+
